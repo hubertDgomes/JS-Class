@@ -9,3 +9,8 @@
     background: rebeccapurple;
     font-size: 40px;
 }
+.js{
+    text-align: left;
+    margin: 0 auto;
+    /* width: 10px; */
+}
